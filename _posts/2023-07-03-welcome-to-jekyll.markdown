@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Post2"
+title:  "Post 2"
 date:   2023-07-03 13:17:03 -0700
 display-date: July 3, 2023
 author: FirstName LastName
 categories: jekyll update
-description: "Curabitur hendrerit volutpat arcuur hendrerit volutpat arcuur hendrerit volutpat arcuur hendrerit volutpat arcuur hendrerit volutpat arcuur hendrerit volutpat arcuur hendrerit volutpat arcuur hendrerit volutpat arcu, rdum."
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
